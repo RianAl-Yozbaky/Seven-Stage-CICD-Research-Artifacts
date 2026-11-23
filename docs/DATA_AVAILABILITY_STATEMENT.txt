@@ -1,9 +1,0 @@
-DRAFT — select ONLY the statement that describes what is actually available. Do not claim a public repository exists before publishing it.
-
-OPTION A — summary-only archive (accurate for the ZIP as currently delivered):
-"The aggregate experimental results, derived evaluation tables, metric-recalculation scripts, and figures supporting this study are available in the associated research artifact archive [persistent URL/DOI to be added after deposit]. The archive does not currently include raw artifact samples, per-pipeline execution records, the original pipeline manifests, or detector implementations. Accordingly, the released materials support verification of reported aggregate calculations but not independent re-execution of the complete experiments. Details about additional material availability and any applicable restrictions are provided in the archive."
-
-OPTION B — only AFTER original manifests and individual pipeline records have actually been deposited:
-"The reported aggregate results, sanitized pipeline scenario manifests, per-pipeline execution records, orchestration comparison tables, evaluation scripts, and dataset provenance documentation are available in [persistent URL/DOI]. The release supports reanalysis of the recorded pipeline outcomes. The availability of source artifacts and detector implementations, and any applicable license or intellectual-property restrictions, are documented in the repository."
-
-Check the current Information and Software Technology Guide for Authors and the editor's instructions before selecting either statement. An editorial request for executable replication materials may require broader disclosure or a justified controlled-access arrangement.
