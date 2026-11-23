@@ -10,5 +10,3 @@
 8. Add a repository release tag (e.g. `v1.0`) and, if appropriate, archive with Zenodo to create a stable DOI.
 9. Once public, replace `[Repository URL]` in your paper with the actual link, and preferably archive DOI. If your Data Availability Statement promises raw materials, either supply them or revise the statement to fit the release.
 
-## Suggested Data Availability statement for THIS summary-only ZIP
-The aggregate experimental results, derived evaluation tables, metric-recalculation scripts, and figures supporting this study are available in the associated research artifact repository [Repository URL/DOI]. These materials support verification of reported aggregate classification metrics. Original artifact samples, per-pipeline execution records, scenario manifests, and detector source implementations are not included in this release; therefore, independent reproduction of the complete experiments is not supported by the publicly released materials. The repository documents the scope and limitations of the available artifacts.
