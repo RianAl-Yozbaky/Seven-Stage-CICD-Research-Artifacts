@@ -1,2 +1,0 @@
-# Dataset documentation
-The inventory in this folder reproduces reported counts only. It is not complete artifact provenance. Before publication add per-file original source, date collected, license, expected label, attack taxonomy, class assignment method, deduplication key/hash, and source-repository splits. Do not distribute third-party archives unless permitted. Document any researcher-curated samples explicitly.
