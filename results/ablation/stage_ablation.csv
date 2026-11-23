@@ -1,0 +1,7 @@
+configuration,tp,fn,accuracy_pct,recall_pct
+Code only,101,399,59.9,20.2
+Code + Build,284,216,78.2,56.8
+Code + Build + Test,324,176,82.0,64.8
+Code + Build + Test + Release,384,116,88.0,76.8
+Code + Build + Test + Release + Deploy,400,100,89.6,80.0
+All seven stages,473,27,96.9,94.6

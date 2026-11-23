@@ -1,0 +1,2 @@
+tp,tn,fp,fn,total,accuracy_pct,precision_pct,recall_pct,f1_pct
+15618,15479,581,442,32120,96.82,96.41,97.25,96.83

@@ -1,0 +1,6 @@
+category,total,tp,fn,recall_pct
+Single-stage,100,82,18,82.00
+Two-stage,100,91,9,91.00
+Three-stage,100,100,0,100.00
+Four-stage,100,100,0,100.00
+Seven-stage full chain,100,100,0,100.00

@@ -1,0 +1,15 @@
+# Keep secret and bulky raw items out of the public artifact repository
+.env
+.env.*
+*.pem
+*.p12
+*.pfx
+*.key
+*.secret
+aws_credentials*
+credentials
+__pycache__/
+.DS_Store
+raw-private/
+private/
+*.log

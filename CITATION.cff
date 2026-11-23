@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use the tables, figures, or verification scripts, cite the associated paper and this artifact release."
+title: "Seven-Stage Serverless Security Framework for CI/CD Pipelines — Research Artifacts"
+type: dataset
+authors:
+  - family-names: Al-Yozbaky
+    given-names: Rian Sh.
+  - family-names: Taha
+    given-names: Dujan B.
+  - family-names: Qasha
+    given-names: Rawaa Putros
+version: "1.0"
+date-released: 2026-11-23
+abstract: "Manuscript-reported aggregate tables, figures, and independent metric verification scripts. Not a complete re-execution package."

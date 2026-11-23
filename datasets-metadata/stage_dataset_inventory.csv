@@ -1,0 +1,8 @@
+stage,clean,attacked,total,attack_categories,artifact_examples
+Plan,2560,2560,5120,5,JSON planning and requirements records
+Code,3000,3000,6000,10,Python source code
+Build,2250,2250,4500,9,"Dockerfiles, CI workflows, dependency manifests, build scripts"
+Test,2500,2500,5000,5,"Python, YAML/YML, shell, test configuration"
+Release,2500,2500,5000,5,"Packages, SBOM, provenance, checksums, signatures"
+Deploy,1750,1750,3500,7,"YAML/YML, JSON, Terraform, Helm, shell, PowerShell"
+Operate/Monitor,1500,1500,3000,5,"Monitoring rules, logs, metrics, configurations"
